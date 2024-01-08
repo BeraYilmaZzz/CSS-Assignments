@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(214, 214, 228);
+    color: rgb(32, 31, 31);
+}
+h1{
+    color: blue;
+}
+ul{
+    color: rgb(17, 138, 15);
+    list-style-position: inside; /* Numaraların içeride, madde metniyle aynı hizada olmasını sağlar */
+    text-align: center;
+}
+p{
+    color: aqua;
+}

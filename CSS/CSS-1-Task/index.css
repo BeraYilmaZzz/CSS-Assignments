@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(27, 216, 213);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1,h2 {
+color: rgb(171, 26, 26);
+font-size: 70px;
+text-transform: uppercase;
+}
+
+p  {
+    text-align: left;
+    font-size: 24px;
+}
+ol{
+    color: rgb(23, 23, 110);
+    list-style-position: inside; /* Numaraların içeride, madde metniyle aynı hizada olmasını sağlar */
+    text-align: center;
+}
+li {
+    color: rgb(114, 30, 33);
+    text-align: center;
+}
